@@ -1,0 +1,11 @@
+/target
+/.idea
+**/*.so
+*.log
+*.json
+.DS_Store
+node_modules/
+target/
+test-ledger/
+address.txt
+.env
